@@ -39,13 +39,13 @@
     // MySQL settings. You need to get this info from your web host.
     // 4.
     // Name of the database
-    define( 'K_DB_NAME', 'SVR031' );
+    define( 'K_DB_NAME', 'realiveyouth.microsoft.windows.net' );
     // 5.
     // Database username
-    define( 'K_DB_USER', 'Administrator' );
+    define( 'K_DB_USER', 'realiveyouth' );
     // 6.
     // Database password
-    define( 'K_DB_PASSWORD', 'Password1' );
+    define( 'K_DB_PASSWORD', 'qL^RMy@p8PM4hnv9V4@toS' );
     // 7.
     // MySQL hostname (it will usually be 'localhost')
     define( 'K_DB_HOST', 'localhost' );
